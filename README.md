@@ -4,7 +4,7 @@ A Queue Data Structure is a fundamental concept in computer science used for sto
 
 ![image](https://github.com/user-attachments/assets/32670a1a-2f95-462e-a2ff-43139635cc6d)
 
-# enqueue-->push/insert
-# dequeue-->pop
-#isempty
-#size
+### enqueue-->push/insert
+### dequeue-->pop
+### isempty
+### size
